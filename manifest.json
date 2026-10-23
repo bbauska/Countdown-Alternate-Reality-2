@@ -1,7 +1,7 @@
 {
-  "name": "Flying Saucer Conspiracy",
-  "short_name": "Saucers", 
-  "start_url": "index.html",
+  "name": "the UFO Experience",
+  "short_name": "UFO Exp", 
+  "start_url": "/",
   "display": "standalone",  
   "icons": [
   {
