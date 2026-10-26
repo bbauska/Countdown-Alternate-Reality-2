@@ -1,5 +1,5 @@
-## Table of Contents
-<ol>
+<h2>Table of Contents</h2>
+<ul>
       <li> <a href="#chapter-i">Preface</a></li>
 	  <li> <a href="#chapter-ii">Acknowledgments</a></li>
 	  <li> <a href="#chapter-iii">Prologue</a></li>
@@ -24,7 +24,7 @@
       <li> <a href="#chapter-a2">Appendix 2: Analysis of the Papua-Father Gill Case by Donald H. Menzel</a></li>
       <li> <a href="#chapter-a3">Appendix 3: Letter of Resignation from Mary Louise Armstrong to Doctor Edward Condon</a></li>
       <li> <a href="#chapter-a4">Appendix 4: Letter from J. Allen Hynek to Colonel Raymond S. Sleeper</a></li>
-</ol>
+</ul>
 <!--
  x. <a href="./00.Forward.md">00. Foreword</a> pg. 7
  1. <a href="./01.Blackout.md">01. Blackout</a> pg. 13
