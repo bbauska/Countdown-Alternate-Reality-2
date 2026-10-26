@@ -46,6 +46,5 @@
 17. <a href="./17.Oberth-and-the-G-Field.md">17. Oberth and the G-Field</a>      pg. 247
 18. <a href="./18.Redell-Explains-a-Riddle.md">18. Redell Explains a Riddle</a>    pg. 263
 19. <a href="./19.The-Vanishing-Planes.md">19. The Vanishing Planes</a>        pg. 288
--->
 &nbsp;XX. Appendix              301
-
+-->
