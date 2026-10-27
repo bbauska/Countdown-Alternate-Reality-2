@@ -3605,9 +3605,9 @@ EXCERPT OF A LETTER FROM
 J. ALLEN HYNEK TO COLONEL RAYMOND S. SLEEPER
 7 October 1968
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section A
+<h5>Section A</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Blue Book has been charged with two missions by AFR 80- I 7, both ostensibly of the same weight, since the regulations do not specify otherwise. They are: (1) to determine if the UFO is a possible threat to the United States, and (2) to use the scientific or technical data gained from study of UFO reports. Neither of these two missions is being adequately executed.
+<p>Blue Book has been charged with two missions by AFR 80- I 7, both ostensibly of the same weight, since the regulations do not specify otherwise. They are: (1) to determine if the UFO is a possible threat to the United States, and (2) to use the scientific or technical data gained from study of UFO reports. Neither of these two missions is being adequately executed.
 First, the only logical basis on which it can be stated that
 UFOs do not constitute a possible threat to the United States is that so far nothing has happened to the United States from that source. Fi.rst, many reports are not investigated until weeks or even months after they are made; clearly, if hostility were ever intended, it would occur long before the report was inves-tigated. (That is akin to having the Pearl Harbor radar warn-ings [which went unheeded] investigated three weeks after Pearl Harbor.) Nothing did occur, so it can be gathered that UFOs, whatever they may be, have not so far had hostile intent. Second, many reports of potentially high intelligence value go unheeded by Blue Book. Examples: (a) [Extract from a classified document of reported sighting of 5 May, 1965, con-tents unclassified, classification refers to name, and location and mission of vessel.] ' ... leading signalman reported what he believed to be an aircraft....When viewed through binoculars,
 three objects were sighted in close proximity to each other; one object was first magnitude, the other two were second mag-nitude. Objects were traveling at extremely high speeds, moving toward ship at undeterrnined altitude. At ... four moving targets were detected on the . . . air search radar at ranges up to 22 miles and held up to six minutes. When over the ship the objects spread to circular formation directly over-head and remained there for approximately three minutes. This maneuver was observed both visually and by radar. The bright object which hovered off the starboard quarter made the larger presentation on the radar scope. The objects made several course changes during the sighting, confinned visually and by radar, and were tracked at speeds in excess of 3000 (three thou-sand) knots. ,Challenges were made by IFF but not answered. After the three minute hovering maneuver, the objects moved in a southeasterly direction at an extremely high rate of speed. Above evolutions observed by CO, all bridge personnel and numerous hands topside.'
@@ -3629,24 +3629,22 @@ It must be pointed out that neither of these cases were shown to me by Blue Book
 (c) For the last example please see Section G which deals with the unscientific and unbusinesslike attitude within Blue Book. The two cases already stated likewise apply equally well also under Section H, since clearly no basic attitude of scientific curiosity was exhibited by Blue Book personnel in these two cases, and their scientific consultant was not even apprised of the existence of the reports.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section B
+<h5>Section B</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The staff of Blue Book, both in numbers and in scientific train-ing, is grossly inadequate to perfu1·1n the tasks assigned under AFR 80-17, even were they of a mind to do so.
 
 This conclusion will be amply supported by what follows in the remaining sections, but it is clear that in dealing with a phenomenon which has puzzled a great many people, a problem that truly demands an interdisciplinary approach, two officers who hold only bachelor's degrees in physics from lesser insti-tutions of higher learning, do not constitute an adequate task force for this problem. Even, however, were the officers Nobel prize winners, they could not do justice to the many reports that come into the Blue Book office. One baffling case could keep a staff of investigators busy for days or even weeks; trying to do justice to two or three cases a day over and above the peripheral duties attached to the office (see Section E) is clearly impossible.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section C
+<h5>Section C</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Blue Book suffers intermurally in that a talks to b, b talks to c and c talks to a. More recently, it has been just a matter of a and b, and often it appears only b; i.e., only one person is concerned in the evaluation of a report, with no cross-check. Blue Book is a closed system. It has, so to speak, fallen victim to the closed loop type of operation, to its own propaganda. There has been little dialogue between Blue Book and the out-side scientific world or between Blue Book and the various scientific facilities within the Air Force itself. There has been little cross-fertilization of ideas and little or no contact with other groups, particularly civilian engineering groups, that have expressed an interest in the problem. As consultant, I have probably received more correspondence from other scientists and engineers about UFOs than Blue Book has since the closed type of operation of Blue Book is well known to such people and it is known that only sterotyped PR type of answers will be given by Blue Book to others. I know of very little scientific correspondence in the Blue Book files; this is probably because scientists wish to correspond with persons of like training. It would be pointless, for instance, to query Blue Book on the scientific reasons for evaluating a given case, say, as caused by a
 temperature inversion: Blue Book has never availed itself of the meteorological know-how within the Air Force itself to deter-mine just how much of an inversion is necessary to produce the effects reported by the witness, if at all. The approach has been qualitative rather than quantitative; a two degree inversion is accorded as much weight as a Io degree inversion, and not once have I seen geometrical optics applied to ray tracing in a given case evaluated as having been caused by an inversion. The staff is not adequate for this type of work. I have recently asked the Chief Scientist (see Appendix A) to initiate a request of AFCRL to compute and furnish tables to Blue Book which would give the optical effects to be expected from temperature inversions of varying degrees of intensity.
 Similarly, many astronomical evaluations have been made by Blue Book without consulting their scientific consultant (who is, after all, an astronomer) which have brought ridicule in the press. The midwest flap of reports of July 31-August 1, 1965 can be cited as an example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Secticm D
+<h5>Secticm D</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 The statistical methods employed by Blue Book are a travesty on the branch of mathematics known as Statistics. Achapter in a doctoral dissertation in Northwestern University, soon to be published, deals specifically with this aspect, and I will later quote from it (Herbert Strentz, 'A Study of Some Air Force Statistical Procedures in Recording and Reporting Data on UFO Investigations', included in 'A SURVEY OF PRESS COVERAGE OF UFOs, 1947-1967, a doctoral thesis at the Medill School of Journalism, Northwestern University') and preface it with my own observations which, incidentally, I have repeatedly brought to the attention of the Blue Book staff but to no avail. I finally felt it pointless to continue to try to educate the staff on these matters.
 In the evaluation of cases it has been the custom to employ the terms 'possible' or 'probable' as modifiers to a given evalu-ation; thus, 'possible aircraft' or 'probable meteor' are often
 S-UFOE-0
@@ -3686,7 +3684,7 @@ have resulted from (1) Air Force efforts to explain every single report of a UFO
 To all of which I can add a hearty Amen. This leads logi-cally to the next point, E.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section E
+<h5>Section E</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 There has been lack of attention to significant UFO cases, as judged by the scientific consultant and others, and too much time on routine cases which contain few information bits; too much time and effort are demanded of the Blue Book staff for peripheral tasks (public relations, answering letters about evaluation of old cases and answering requests for information from various and sundry sources). The Blue Book staff, unless greatly expanded, and if it is to execute a scientific mission, should concentrate on two or three significant cases per month (such cases to be decided upon by consultation with a scientific panel) with the end result a scientific report in detail on each case, published as a scientific report and available to the public. Cases chosen should not be those in which only one witness is concerned (except in very unusual circumstances) or cases in which lights are seen in the distance at night, or cases in which the witnesses are judged of low reliability and are unable to make articulate responses to questions. As scientific consultant to Blue Book I have long advanced a method of judging those cases worthy of attention: a two dimensional classification whereby a case is judged by its Strangeness and by the com-posite Credibility of the witnesses of the sighting. By Strange-ness is meant a measure of the difficulty of honestly explaining the sighting by well known physical phenomena and principles; the composite final Credibility of the witnesses can, of course,
@@ -3695,7 +3693,7 @@ only be determined by their past records, medical and social, and by whatever ps
   Further, once a case has been classed as Unidentified or Unknown that is the end as far as Blue Book is concerned. In Science, the unknown, the unexplained, is the start, and not the end of inquiry. A scientist who finds something in his lab-oratory that he can't explain is no scientist if he labels it 'un-known' and files it away and spends the rest of his time in routine matters. It is precisely the Unknowns that Blue Book should be concerned with, not making impressive (?) counts of how many people cannot properly identify a satellite or a meteor. That might be of some interest to a sociologist, but hardly to a physical scientist.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section F
+<h5>Section F</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The information input to Blue Book is grossly inadequate and certainly the cause of much of the inefficiency within the Blue Book office itself. An impossible load is placed on Blue Book by the almost consistent failure of UFO officers at the local Air Bases to transmit adequate information to Blue Book, and, I might say, it was considerably worse in the long period before there were UFO officers so designated.
@@ -3705,7 +3703,7 @@ which could have been obtained by conscientious interrogation by the UFO officer
 It would appear that Blue Book has never beei.1 given enough aut?ority to 'throw a case back into the teeth' of the local in-terrogator and to demand immediate further information. If the military has anything, it has, because of its command struc-ture, the means whereby such inforrnation can be demanded, and not merely politely asked for and the request allowed to be disregarded. The upgrading of original data is one of the most pressing needs within Blue Book. 'We are smelting a very low grade ore.'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section G
+<h5>Section G</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The basic attitude within Blue Book is unscientific in that a working hypothesis has been adopted 
@@ -3773,7 +3771,7 @@ science we like to think that we employ far more rigor-ous, objective, unbiased 
 employed in a court-room where emotional bias can and does creep in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section II
+<h5>Section H</h5>  <!-- page 324 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Inadequate use has been made of the Blue Book scientific
 consultant and the scientific liaison he represents. He has only limited access to files in that he must first know of a case before he can ask for the relevant files. Often he has been unaware that a certain case existed until he either accidentally stumbled upon it or it was brought to his attention by outside agencies.
@@ -3809,16 +3807,17 @@ report from a highly placed scientist in one of the nation's greatest scientific
   Summing up: the methodology of Blue Book is unscientific in that no scientist would test onlyfor a preconceived hypothesis and rule out summarily even the possibility of another hypoth-esis; he would manifest scientific curiosity about the matters in hand; he would attempt to find patterns in data rather than handling each datum as though it existed in a vacuum. In case after case Blue Book, for instance, has dismissed a case because the loc11l air base reported that no aircraft were in the area. In that event, argues Blue Book, the observer obviously must have been deluded. The proper scientific approach would, of course, be to seek a solution that is consistent with the basic data of the report and not with the working hypothesis.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Section I
+<h5>Section I</h5>  <!-- page 326 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+      <p class="no-indent">I must point out that I have made recommendations in the past for 'product improvement', but which went unheeded. I refer to the paper (AFCIN-4E2x) entitled, 'ATIC UFO Investigation Capability' and signed by Col. Evans. This grew out of hear-ings held in Washington July 13-15, 1960.</p>
 
-I must point out that I have made recommendations in the past for 'product improvement', but which went unheeded. I refer to the paper (AFCIN-4E2x) entitled, 'ATIC UFO Investigation Capability' and signed by Col. Evans. This grew out of hear-ings held in Washington July 13-15, 1960.
+      <p>Present on July 15 were: Mr. Robert Smart, Armed Services Committee, Mr. Spencer Beresford, Mr. Richard Hines and Mr. Frank Hammil, House Science and Astronautics Com-mittee, Mr. John Warner, CIA (Assistant for Legislative Liaison to Mr. Allen Dulles), Mr. Richard Payne, CIA (Tech. Advisor), Mr. John McLaughlin, Adm. Assistant to Secretary Air Force, M/Gen. A. H. Leuhman and B/Gen. E. B. LeBailly, SAFOI, B/Gen. Kingsley and Col. James McKee, SAFLL, L/Col. Sullivan, AFCIN-Pla, L/Col. Tacker, SAFOI-3d, Maj. J. Boland, SAFLL, Maj. Robert Friend and myself.</p>
 
-Present on July 15 were: Mr. Robert Smart, Armed Services Committee, Mr. Spencer Beresford, Mr. Richard Hines and Mr. Frank Hammil, House Science and Astronautics Com-mittee, Mr. John Warner, CIA (Assistant for Legislative Liaison to Mr. Allen Dulles), Mr. Richard Payne, CIA (Tech. Advisor), Mr. John McLaughlin, Adm. Assistant to Secretary Air Force, M/Gen. A. H. Leuhman and B/Gen. E. B. LeBailly, SAFOI, B/Gen. Kingsley and Col. James McKee, SAFLL, L/Col. Sullivan, AFCIN-Pla, L/Col. Tacker, SAFOI-3d, Maj. J. Boland, SAFLL, Maj. Robert Friend and myself.
-Had the recommendations arrived at in those meetings (recommendations which I strongly supported) been implemented, Project Blue Book would today probably have a decent scientific record rather than being the letter-writing, filing, and monitoring agency that it in fact is.
+      <p>Had the recommendations arrived at in those meetings (recommendations which I strongly supported) been implemented, Project Blue Book would today probably have a decent scientific record rather than being the letter-writing, filing, and monitoring agency that it in fact is.</p>
 
-These recommendations were:
-  1. Blue Book should have the capability to investigate those cases which give an indication of 
+      <p>These recommendations were:</p>
+
+      <p>1. Blue Book should have the capability to investigate those cases which give an indication of 
   having high intelligence or scientific potential, and also, those which generate an unusual amount 
   of public interest. In making this recommendation, Mr. Smart stated that the investigative 
   capability of Air Force Bases is limited to routine cases and that the Air Force should have 
@@ -3842,21 +3841,20 @@ These recommendations were:
   in the long history of Blue Book, never once was Cambridge asked to calculate whether the inversions 
   to which a sighting was attributed were actually sufficient, quan-titatively, to account for the UFO 
   sighting. (The word 'inver-sion' has indeed become a catch-all around Blue Book - given that a 3° 
-  inversion existed at 6,000 feet, this has been used to explain a sighting made by an aircraft at 15,000 feet!)
+  inversion existed at 6,000 feet, this has been used to explain a sighting made by an aircraft at 15,000 feet!)</p>  
+
+      <p>2. Mr. Smart requested that summaries of all significant cases be forwarded to his office. (To the 
+  best of my knowledge this has never been done.)</p>
   
-  2. Mr. Smart requested that summaries of all significant cases be forwarded to his office. (To the 
-  best of my knowledge this has never been done.)
-  
-  3. Project Blue Book office must have immediate mobility and c?pability to investigate cases of 
+      <p>3. Project Blue Book office must have immediate mobility and c?pability to investigate cases of 
   importance. (This rec-ommendation was based largely on my insistence to the Com-mittee that Blue 
   Book invariably got 'scooped' by civilian organizations in the investigation of cases. Time and 
   again NICAP or APRO had interviewed the witness before the local Air Force men had, and I gathered 
   from many witnesses that the civilian interrogations often were more thorough than those of the Air 
   Force. I also pointed out the need for upgrading the data. Time and again the reports from local Air 
   Bases con-stituted a waste of teletype time, as illustrated by one famous instance when the TWX carried 
-  two pages of addresses and the message, 'Just another UFO.' That was the content of the message!)
-
-To function properly, Blue Book should have a sufficiently high ranking officer in charge who could 
+  two pages of addresses and the message, 'Just another UFO.' That was the content of the message!)</p>
+      <p>To function properly, Blue Book should have a sufficiently high ranking officer in charge who could 
 command that Air Force regulations be carried out at_ the local air base level not only to the letter 
 of the Regulation but to their spirit also. I have personally been told repeatedly of the ridicule 
 meted out at the local level, and of the superficial and often cavalier methods of investigations, 
@@ -3866,24 +3864,25 @@ have served to establish some quantitative idea as to the angular speed, apparen
 kinematics of the reported object, and where cer-tainly no attempt was made to seek out other witnesses. 
 (To this point Colonel Quintanilla has informed me that 'Blue Book is not an investigative agency' - 
 how in the name of common sense can a scientific job be done without investigation! Inves-tigation is 
-the very life-blood of science.)
+the very life-blood of science.)</p>
 
-Thus we see that long before we can speak of 'product im-provement' we must seek means of improving the raw material from which our product eventually stems.
+      <p>Thus we see that long before we can speak of 'product im-provement' we must seek means of improving the raw material from which our product eventually stems.</p>
 
-I also pointed out to the Smart Committee that when certain original data are lacking, as they very often were, immediate telephonic contact with key witnesses was essential - not two or three months later, but within hours of the receipt of the TWX. The first order of business at Blue Book should be the immediate scrutiny of an incoming report, to decide whether it is 'significant' in the terms already specified and, if so, to decide at once what additional information is needed and to proceed to get it immediately - calling in the Scientific Consultant then, and not weeks later, to ask his help in gathering info11nation. Despite the fact that my time is limited, I do have an excellent scientific staff that could be employed from time to time to obtain such information. I refer particularly to Mr. William Powers, systems engineer, who has on many occasions proved his ability to interrogate witnesses in a meaningful and confidence-inspiring manner. Mr. Fred Beckman, of the University of Chicago, has also been of great help to me, and entirely on a voluntary basis.
+      <p>I also pointed out to the Smart Committee that when certain original data are lacking, as they very often were, immediate telephonic contact with key witnesses was essential - not two or three months later, but within hours of the receipt of the TWX. The first order of business at Blue Book should be the immediate scrutiny of an incoming report, to decide whether it is 'significant' in the terms already specified and, if so, to decide at once what additional information is needed and to proceed to get it immediately - calling in the Scientific Consultant then, and not weeks later, to ask his help in gathering info11nation. Despite the fact that my time is limited, I do have an excellent scientific staff that could be employed from time to time to obtain such information. I refer particularly to Mr. William Powers, systems engineer, who has on many occasions proved his ability to interrogate witnesses in a meaningful and confidence-inspiring manner. Mr. Fred Beckman, of the University of Chicago, has also been of great help to me, and entirely on a voluntary basis.</p>
 
-Unfortunately,the recommendations made and applauded in Washington were never implemented. The result was that with the limited staff, their many duties, an ingrained feeling that the whole subject was worthless, and the statement by the Project Director that 'we are not an investigative agency' Blue Book is a routine, dull, uninspired operation - so much so that it would be psychologically impossible for me to be associated with it physically on a daily basis. (Indeed, Lt. Marano has complained to me that his strong desire to be transferred is due
-to the fact that he hasn't been able to use what scientific training he has in his job.)
-  The Air Force should finally recognize the UFO phenomenon as a global, scientific problem of possible great potential and attempt to fulfill the second part of its two-fold mission by asking that Blue Book be aided by a scientific panel drawn from the various already existing scientific missions within the Air Force as well as outside scientific groups; and that this panel start from where the Condon Committee will have left off.
-  It might be best, however, in the long run, to ask that the Blue Book second mission be transferred out of the Air Force entirely and given to a civilian group comprised of capable scienti'sts from various disciplines, since the problem approach is undoubtedly interdisciplinary.
-  Which of the two available paths is followed must be decided largely by yourself and the exigencies of the situation. I remain ready to assist you in both reaching and implementing
-your decision.
+      <p>Unfortunately,the recommendations made and applauded in Washington were never implemented. The result was that with the limited staff, their many duties, an ingrained feeling that the whole subject was worthless, and the statement by the Project Director that 'we are not an investigative agency' Blue Book is a routine, dull, uninspired operation - so much so that it would be psychologically impossible for me to be associated with it physically on a daily basis. (Indeed, Lt. Marano has complained to me that his strong desire to be transferred is due
+to the fact that he hasn't been able to use what scientific training he has in his job.)</p>
+      <p>The Air Force should finally recognize the UFO phenomenon as a global, scientific problem of possible great potential and attempt to fulfill the second part of its two-fold mission by asking that Blue Book be aided by a scientific panel drawn from the various already existing scientific missions within the Air Force as well as outside scientific groups; and that this panel start from where the Condon Committee will have left off.</p>
+      <p>It might be best, however, in the long run, to ask that the Blue Book second mission be transferred out of the Air Force entirely and given to a civilian group comprised of capable scienti'sts from various disciplines, since the problem approach is undoubtedly interdisciplinary.</p>
+      <p>Which of the two available paths is followed must be decided largely by yourself and the exigencies of the situation. I remain ready to assist you in both reaching and implementing
+your decision.</p>
 
-J. Allen Hynek, 
-Director Lindheimer Astronomical Research Center
-Northwestern University
-Evanston, Ill.
-
+<dl>
+  <dt>J. Allen Hynek, Director</dt>
+  <dt>Lindheimer Astronomical Research Center</dt>
+  <dt>Northwestern University</dt>
+  <dt>Evanston, Ill.</dt>
+</dl>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 INDEX
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
