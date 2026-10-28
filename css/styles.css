@@ -1,15 +1,15 @@
 /* /css/styles.css of UFO-Experience for ufo-exp.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote {
-  font-size: 1.4em;
-  width: 60%;
-  margin: 50px auto;
+  font-size: 0.8em;  /* 1.4em; */
+  width: 80%;  /* 60%; */
+  margin: 25px auto;  /* 50px auto; */
   font-family: Open Sans;
   font-style: italic;
   color: #555555;
-  padding: 1.2em 30px 1.2em 75px;
-  border-left: 8px solid #78c0a8 ;
-  line-height: 1.6;
+  padding: 0.8em 15px 0.8em 75px;  /* 1.2em 30px 1.2em 75px; */
+  border-left: 4px solid #78c0a8;  /* 8px solid #78c0a8; */
+  line-height: 1.2;  /* 1.6; */
   position: relative;
   background: #ededed;
 }
@@ -17,10 +17,10 @@ blockquote::before {
   font-family: Arial;
   content: "\201C";
   color: #78c0a8;
-  font-size: 4em;
+  font-size: 2em;  /* 4em; */
   position: absolute;
-  left: 10px;
-  top:-10px;
+  left: 5px;  /* 10px; */
+  top: -5px;  /* -10px; */
 }
 blockquote::after {
   content: '';
@@ -42,9 +42,11 @@ body {
   z-index: 1;
   font-family: "IM Fell DW Pica", serif;
 }
+
 h1,h2,h3,h4,h5,h6,p {
   margin: 0;
 }
+
 p {
   margin: 1rem 0 0.5rem;
   font-size: 18px;
@@ -233,4 +235,3 @@ p:first-of-type:first-letter {
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
-
