@@ -238,6 +238,5 @@ p:first-of-type:first-letter {
   text-transform: uppercase;
 }
 p:not(.no-indent) {
-  text-indent: 2em;
+  text-indent: 1.5em;
 }
-
