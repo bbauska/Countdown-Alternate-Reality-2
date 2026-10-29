@@ -1,8 +1,8 @@
 /* /css/styles.css of UFO-Experience for ufo-exp.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote {
-  font-size: 0.8em;  /* 1.4em; */
-  width: 80%;  /* 60%; */
+  font-size: 1.1em;  /* 1.4em; */
+  width: 90%;  /* 60%; */
   margin: 25px auto;  /* 50px auto; */
   font-family: Open Sans;
   font-style: italic;
@@ -71,6 +71,7 @@ article {
 .italic {
   font-style: italic;
 }
+
 .masthead {
   padding: 0.5rem 1rem;
   background-color: #222;
@@ -84,6 +85,7 @@ article {
   color: white;
   text-decoration: none;
 }
+
 #branding {
   display: flex;
   justify-content: space-between;
@@ -216,7 +218,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/UFO-Experience-small.jpg);
+    background-image: url(../images/UFO-Experience.jpg);
     background-position: center 20%;
   }
 }
@@ -235,3 +237,7 @@ p:first-of-type:first-letter {
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
+p:not(.no-indent) {
+  text-indent: 2em;
+}
+
