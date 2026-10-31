@@ -3,12 +3,12 @@
 blockquote {
   font-size: 1.1em;  /* 1.4em; */
   width: 90%;  /* 60%; */
-  margin: 25px auto;  /* 50px auto; */
+  margin: 10px auto;  /* 50px auto; */
   font-family: Open Sans;
   font-style: italic;
   color: #555555;
   padding: 0.8em 15px 0.8em 75px;  /* 1.2em 30px 1.2em 75px; */
-  border-left: 4px solid #78c0a8;  /* 8px solid #78c0a8; */
+  border-left: 2px solid #78c0a8;  /* 8px solid #78c0a8; */
   line-height: 1.2;  /* 1.6; */
   position: relative;
   background: #ededed;
@@ -74,7 +74,7 @@ article {
 
 .masthead {
   padding: 0.5rem 1rem;
-  background-color: #222;
+  background-color: #222222;
   color: white;
   position: fixed;
   top: 0;
@@ -112,7 +112,7 @@ article {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ddd;
+  background-color: #dddddd;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -162,7 +162,7 @@ article {
   font-size: 0.9rem;
 }
 #main-menu {
-  background: #eee;
+  background: #eeeeee;
   text-align: center;
   padding: 2rem 0 0;
   margin-bottom: 2rem;
